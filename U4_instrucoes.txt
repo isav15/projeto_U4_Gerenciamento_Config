@@ -1,0 +1,3 @@
+Arquivo de exemplo para atividade U4 - Gerenciamento de Configuração
+Autor: Isabela Vieira da Silva
+Descrição: Teste de commit via interface web.
